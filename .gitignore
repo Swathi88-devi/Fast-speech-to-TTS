@@ -27,3 +27,6 @@ downloads/
 # System logs
 *.log
 
+# Report generator script (do not push to repository)
+project/Report/generate_report.py
+
