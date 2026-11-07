@@ -126,7 +126,7 @@ All test sentences were synthesized **preserving the exact text as provided**:
 
 ### Step 1: Environment Setup
 ```bash
-git clone https://github.com/siddharthrajak49-commits/FastSpeech-2-Text-to-Speech-TTS-.git
+git clone https://github.com/Swathi88-devi/Fast-speech-to-TTS.git
 cd FastSpeech-2-Text-to-Speech-TTS-/project
 
 # Install required dependencies
